@@ -6,7 +6,7 @@ NoobiBuilds is a small builder's workshop turning messy problems into useful dig
 
 [Visit the NoobiBuilds Living Workshop](https://www.noobibuilds.co.za/)
 
-## Building privately
+## Projects
 
 - **Website** — the public workshop and product catalogue.
 - **Locked In** — practical momentum and training.
@@ -17,9 +17,15 @@ NoobiBuilds is a small builder's workshop turning messy problems into useful dig
 
 Most product source is kept in private repositories. Explore the product pages through the Living Workshop; availability and development stage vary by project.
 
-## Public source releases
+## Explore a build
 
-I am preparing documented public examples. A useful example should explain the problem, show the implementation, give a way to try it, and state its limits. Existing public source should not be taken as a claim of a supported or licensed release.
+### [Locked In — browser-based training progress](https://github.com/NoobiBuild/locked-in-training)
+
+A small application combining workout navigation, progress tracking, browser-local storage and JSON backup/restore. Its [project walkthrough](https://github.com/NoobiBuild/locked-in-training#readme) explains the code, local setup, design choices and current limitations.
+
+This is an early source example, not a claim of production scale. The documentation distinguishes implemented features from behaviour that still needs runtime verification.
+
+Other product source remains private while I prepare examples with clear documentation, attribution and an appropriate sharing basis.
 
 ## How I build
 
