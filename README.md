@@ -2,7 +2,7 @@
 
 **Practical South African tools, products, and AI.**
 
-NoobiBuilds is a small builder's workshop turning messy problems into useful digital tools. We build quickly, show the work honestly, and keep improving what proves useful.
+NoobiBuilds is a small builder's workshop turning messy problems into useful digital tools. I use AI as a technical collaborator to build tools for practical problems. I keep refining the work until I can explain what works, why it works, and what still needs improvement.
 
 [Visit the NoobiBuilds Living Workshop](https://www.noobibuilds.co.za/)
 
@@ -15,14 +15,18 @@ NoobiBuilds is a small builder's workshop turning messy problems into useful dig
 - **NotaryPrep SA** — focused legal-study and exam preparation.
 - **NoobiAudit** — website diagnosis and a clearer improvement path.
 
-The source for these builds is being organised into private repositories while the public product experiences remain available through the Living Workshop.
+Most product source is kept in private repositories. Explore the product pages through the Living Workshop; availability and development stage vary by project.
 
 ## Public source releases
 
-- **Coming soon** — first public build.
-- **Coming soon** — second public build.
+I am preparing documented public examples. A useful example should explain the problem, show the implementation, give a way to try it, and state its limits. Existing public source should not be taken as a claim of a supported or licensed release.
 
-Public repositories will appear here when their source, licence, documentation, and maintenance path are ready.
+## How I build
+
+- Start with a problem I can describe clearly.
+- Work with AI, inspect the result, and refine what I do not understand.
+- Make the tool usable, then test the flows people will depend on.
+- Keep experiments, working software and future plans clearly distinguished.
 
 ## Work with NoobiBuilds
 
