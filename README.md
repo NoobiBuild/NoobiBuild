@@ -1,42 +1,39 @@
 # NoobiBuilds
 
-**Practical South African tools, products, and AI.**
+**A one-person workshop in South Africa. Problems → Solutions → Products.**
 
-NoobiBuilds is a small builder's workshop turning messy problems into useful digital tools. I use AI as a technical collaborator to build tools for practical problems. I keep refining the work until I can explain what works, why it works, and what still needs improvement.
+I build tools for the awkward things in work and everyday life: learning something useful, getting organised, studying and finding a way to start. AI is a technical collaborator. I shape the problem, inspect the result and keep refining what I do not understand.
 
-[Visit the NoobiBuilds Living Workshop](https://www.noobibuilds.co.za/)
+[Step into the workshop](https://noobibuilds.co.za/) · [Read the story](https://noobibuilds.co.za/about.html)
 
-## Projects
+## On the shelf
 
-- **Website** — the public workshop and product catalogue.
-- **Locked In** — practical momentum and training.
-- **NoobiKids** — calm, child-friendly learning and discovery.
-- **Phanda ka AI** — practical AI learning and work support.
-- **NotaryPrep SA** — focused legal-study and exam preparation.
-- **NoobiAudit** — website diagnosis and a clearer improvement path.
+The website is the starting point for the products. GitHub is a look at the work behind them.
 
-Most product source is kept in private repositories. Explore the product pages through the Living Workshop; availability and development stage vary by project.
+| Product | What it is for | Where to look |
+| --- | --- | --- |
+| **Phanda ka AI** | Practical AI for learning, work and small-business tasks. | [Workshop](https://noobibuilds.co.za/Products/phanda-ka-ai/) · [AI Fluency lesson](https://noobibuilds.co.za/NoobiManual/lesson/ai-fluency/) |
+| **NoobiKids** | A calmer place for children to learn, create, play and explore, including South African games. | [Product](https://noobibuilds.co.za/Products/noobikids/) · [Open the app](https://noobibuilds.co.za/Products/noobikids/app/) |
+| **NoobiAudit** | A structured website review and a practical next step for improvements. | [Audit workspace](https://noobibuilds.co.za/Products/noobiaudit/) |
+| **NotaryPrep SA** | South African notarial study and drafting practice. | [Product](https://noobibuilds.co.za/Products/notaryprep-sa/) · [Public project guide](https://github.com/NoobiBuild/NotaryPrepSA#readme) |
+| **Locked In** | A training companion for choosing a workout and recording progress. | [Current website app](https://noobibuilds.co.za/Products/locked-in/) · [Earlier public source](https://github.com/NoobiBuild/locked-in-training#readme) |
 
-## Explore a build
+Most product source is private. A working page, a source example and a product guide offer different kinds of evidence; the links above identify what is available to inspect.
 
-### [Locked In — browser-based training progress](https://github.com/NoobiBuild/locked-in-training)
+## Under the hood
 
-A small application combining workout navigation, progress tracking, browser-local storage and JSON backup/restore. Its [project walkthrough](https://github.com/NoobiBuild/locked-in-training#readme) explains the code, local setup, design choices and current limitations.
+**Locked In** is an early public HTML/CSS/JavaScript implementation with browser-local progress and JSON backup/restore. Its [README](https://github.com/NoobiBuild/locked-in-training#readme) explains the entry point, setup and limitations. It differs from the current website app; it is not a source release of that version.
 
-This is an early source example, not a claim of production scale. The documentation distinguishes implemented features from behaviour that still needs runtime verification.
+**NotaryPrep SA** has a [public guide](https://github.com/NoobiBuild/NotaryPrepSA#readme) explaining the offering and the limits of what has been checked. The repository does not contain the study application or paid materials.
 
-Other product source remains private while I prepare examples with clear documentation, attribution and an appropriate sharing basis.
+For the other products, the website currently provides the public view. A fuller technical case study needs a reviewed account of the decisions, appropriate examples and permission to share the underlying work.
 
 ## How I build
 
-- Start with a problem I can describe clearly.
-- Work with AI, inspect the result, and refine what I do not understand.
-- Make the tool usable, then test the flows people will depend on.
-- Keep experiments, working software and future plans clearly distinguished.
+Start with a problem I can explain. Use AI to explore and build. Check the output, test the important flows and describe what still needs work. Keep experiments and previews distinct from releases.
+
+The pages linked here were reviewed on 24–25 September 2026. Page availability does not establish checkout, offline operation or user outcomes. Phanda's jobs page displayed a March update date during that review, so check listing dates and the original vacancy before applying.
 
 ## Work with NoobiBuilds
 
-Have a messy digital problem, a rough product idea, or a half-working system? Visit the [Living Workshop](https://www.noobibuilds.co.za/) or email [hello@noobibuilds.co.za](mailto:hello@noobibuilds.co.za).
-
-Built in South Africa.
-
+Have a digital snag, a rough idea or a site that needs attention? [Start a conversation](https://noobibuilds.co.za/contact.html) or email [hello@noobibuilds.co.za](mailto:hello@noobibuilds.co.za).
